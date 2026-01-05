@@ -1,0 +1,7 @@
+{
+  "name": "VerifyChain AI",
+  "description": "An On-Chain Applet Marketplace on Celo for trustless AI verification, auditability, and provenance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
